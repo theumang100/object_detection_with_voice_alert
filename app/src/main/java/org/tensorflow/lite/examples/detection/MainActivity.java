@@ -31,7 +31,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-//HELLO WORLD
+
     public static final float MINIMUM_CONFIDENCE_TF_OD_API = 0.5f;
 
     @Override
